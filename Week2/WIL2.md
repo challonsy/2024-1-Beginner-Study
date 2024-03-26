@@ -15,7 +15,7 @@ git checkout 브랜치이름: 해당 브랜치로 이동(-b옵션: 생성후 이
 
 ### Issue
 
-<type>/issue번호-간략한 설명
+type/issue번호-간략한 설명
 
 
 
