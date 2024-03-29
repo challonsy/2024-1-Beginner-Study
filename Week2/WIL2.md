@@ -30,4 +30,4 @@ type/issue번호-간략한 설명
 
 Merge Commit, Squash and Merge, Rebase and Merge(충돌 주의) 
 
-https://github.com/challonsy/2024-1-Beginner-Study/pull/2
+<https://github.com/challonsy/2024-1-Beginner-Study/pull/2>
