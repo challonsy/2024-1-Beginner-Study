@@ -6,7 +6,7 @@
 
 **Squash Merge**
 
-다른 브랜치에서의 커밋 내역이 하나로 압축된다. 그래서 한번의 커밋으로 브랜치 합병이 됨
+다른 브랜치에서의 커밋 내역이 하나로 압축된다. 그래서 한번의 커밋으로 브랜치 합병까지 됨
 
 **Rebase and Merge**
 
@@ -35,3 +35,9 @@ reset의 세가지 옵션:
 3. hard: working directory에도 변경 사항이 남지 않고 아예 작업한 내용이 사라진다.
 
 사용법: reset --option <돌아갈 commit id>
+
+**revert**
+
+reset은 되돌린 이후 그 전 히스토리를 삭제하지만 revert는 히스토리를 모두 가지고 있다.
+
+되돌리기 위한 새로운 commit 생성
